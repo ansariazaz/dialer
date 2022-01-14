@@ -1,5 +1,4 @@
 
-let input =document.getElementById("input")
 let output = document.getElementById("output")
 function showkeys(data){
   
@@ -12,7 +11,6 @@ function showkeys(data){
 }
 
 function choose(e) {
-    
     e.classList.add("selected");
    setTimeout(()=>{
        e.classList.remove("selected")

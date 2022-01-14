@@ -3,6 +3,8 @@ body{
     padding: 0;
     box-sizing: border-box;
     background-color: rgb(123, 184, 241);
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .mainContainer{
     height: 100vh;
